@@ -1498,7 +1498,7 @@ section h2.section-heading {
 
 @media only screen and (max-width: 880px) {
     section h2.section-heading {
-        font-size: 45px;
+        font-size: 30px;
         font-weight: 700;
         margin: 0 0 -15px 0;
     }
