@@ -1219,7 +1219,9 @@ h1.home-page-title-show {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     height: auto;
     position: relative;
-    top: -1.8rem;
+    top: -1.6rem;
+    max-width: 90%;
+    max-height: 90%;
 }
 
 .navbar-bg-switch {
