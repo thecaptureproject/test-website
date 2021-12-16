@@ -1220,8 +1220,8 @@ h1.home-page-title-show {
     height: auto;
     position: relative;
     top: -1.7rem;
-    max-width: 95%;
-    max-height: 95%;
+    max-height: 90px;
+	left: 1rem;
 }
 
 .navbar-bg-switch {
